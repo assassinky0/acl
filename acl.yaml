@@ -10,7 +10,7 @@ proxy-groups:
       - 🇺🇲 美国节点
       - 🇰🇷 韩国节点
       - 🚀 手动切换
-	  - 📶 官方优选
+      - 📶 官方优选
       - DIRECT
   - name: 🚀 手动切换
     include-all: true
@@ -30,7 +30,7 @@ proxy-groups:
     type: select
     proxies:
       - 🚀 节点选择
-	  - 📶 官方优选
+      - 📶 官方优选
       - ♻️ 自动选择
       - 🇸🇬 狮城节点
       - 🇭🇰 香港节点
@@ -44,7 +44,7 @@ proxy-groups:
     type: select
     proxies:
       - 🚀 节点选择
-	  - 📶 官方优选
+      - 📶 官方优选
       - ♻️ 自动选择
       - 🇸🇬 狮城节点
       - 🇭🇰 香港节点
@@ -58,7 +58,7 @@ proxy-groups:
     type: select
     proxies:
       - 🚀 节点选择
-	  - 📶 官方优选
+      - 📶 官方优选
       - ♻️ 自动选择
       - 🇸🇬 狮城节点
       - 🇭🇰 香港节点
@@ -72,7 +72,7 @@ proxy-groups:
     type: select
     proxies:
       - 🚀 节点选择
-	  - 📶 官方优选
+      - 📶 官方优选
       - ♻️ 自动选择
       - 🎥 奈飞节点
       - 🇸🇬 狮城节点
@@ -88,7 +88,7 @@ proxy-groups:
     proxies:
       - 🇨🇳 台湾节点
       - 🚀 节点选择
-	  - 📶 官方优选
+      - 📶 官方优选
       - 🚀 手动切换
       - DIRECT
   - name: 📺 哔哩哔哩
@@ -101,7 +101,7 @@ proxy-groups:
     type: select
     proxies:
       - 🚀 节点选择
-	  - 📶 官方优选
+      - 📶 官方优选
       - ♻️ 自动选择
       - 🇭🇰 香港节点
       - 🇨🇳 台湾节点
@@ -125,7 +125,7 @@ proxy-groups:
     proxies:
       - DIRECT
       - 🚀 节点选择
-	  - 📶 官方优选
+      - 📶 官方优选
       - 🇺🇲 美国节点
       - 🇭🇰 香港节点
       - 🇨🇳 台湾节点
@@ -138,7 +138,7 @@ proxy-groups:
     proxies:
       - DIRECT
       - 🚀 节点选择
-	  - 📶 官方优选
+      - 📶 官方优选
       - 🇺🇲 美国节点
       - 🇭🇰 香港节点
       - 🇨🇳 台湾节点
@@ -151,7 +151,7 @@ proxy-groups:
     proxies:
       - DIRECT
       - 🚀 节点选择
-	  - 📶 官方优选
+      - 📶 官方优选
       - 🇺🇲 美国节点
       - 🇭🇰 香港节点
       - 🇨🇳 台湾节点
@@ -163,7 +163,7 @@ proxy-groups:
     type: select
     proxies:
       - 🚀 节点选择
-	  - 📶 官方优选
+      - 📶 官方优选
       - DIRECT
       - 🇺🇲 美国节点
       - 🇭🇰 香港节点
@@ -177,7 +177,7 @@ proxy-groups:
     proxies:
       - DIRECT
       - 🚀 节点选择
-	  - 📶 官方优选
+      - 📶 官方优选
       - 🇺🇲 美国节点
       - 🇭🇰 香港节点
       - 🇨🇳 台湾节点
@@ -190,7 +190,7 @@ proxy-groups:
     proxies:
       - DIRECT
       - 🚀 节点选择
-	  - 📶 官方优选
+      - 📶 官方优选
       - 🇺🇲 美国节点
       - 🇭🇰 香港节点
       - 🇨🇳 台湾节点
@@ -205,14 +205,14 @@ proxy-groups:
     proxies:
       - DIRECT
       - 🚀 节点选择
-	  - 📶 官方优选
+      - 📶 官方优选
       - ♻️ 自动选择
   - name: 🎯 全球直连
     type: select
     proxies:
       - DIRECT
       - 🚀 节点选择
-	  - 📶 官方优选
+      - 📶 官方优选
       - ♻️ 自动选择
   - name: 🛑 广告拦截
     type: select
@@ -228,7 +228,7 @@ proxy-groups:
     type: select
     proxies:
       - 🚀 节点选择
-	  - 📶 官方优选
+      - 📶 官方优选
       - ♻️ 自动选择
       - DIRECT
       - 🇭🇰 香港节点
